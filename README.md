@@ -2,6 +2,10 @@
 
 [![tests](https://github.com/shashwatsaxena571/llm-attribution-studio/actions/workflows/tests.yml/badge.svg)](https://github.com/shashwatsaxena571/llm-attribution-studio/actions/workflows/tests.yml)
 
+<p align="center">
+  <img src="docs/llm-attribution-demo.gif" alt="Token-level occlusion attribution demo" width="820">
+</p>
+
 **Why did the model produce *that* output? Token-level attribution you can actually read.**
 
 ## The problem
