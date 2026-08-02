@@ -1,0 +1,5 @@
+numpy
+# Phase 2:
+# torch
+# transformers
+# streamlit
